@@ -4,6 +4,7 @@ public class palindrome
 {
 	public static void main (String[] args){
     Date date = new Date();
+    System.out.println("today's date")
     System.out.println("Printing current date:"+date);
     Scanner a = new Scanner(System.in);
     System.out.print("enter any number: ");
