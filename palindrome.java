@@ -20,6 +20,7 @@ if(originalnumber==reversednumber){
 }
 else{
 	System.out.println("THE GIVEN NUMBER IS NOT A PALINDROME");
+	System.out.println("from remote branch");
 }
 }
 }
