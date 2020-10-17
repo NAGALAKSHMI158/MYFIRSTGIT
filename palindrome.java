@@ -6,6 +6,7 @@ public class palindrome
 
     Scanner a = new Scanner(System.in);
     System.out.print("enter any number: ");
+    System.out.println("Hello Im coming from gomathi branch");
     int num = a.nextInt();
     int reversednumber=0; int remainder,originalnumber;
     originalnumber = num; 
