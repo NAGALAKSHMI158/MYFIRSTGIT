@@ -1,9 +1,10 @@
 import java.util.*;
+import java.util.Date;
 public class palindrome
 {
 	public static void main (String[] args){
-
-
+    Date date = new Date();
+    System.out.println("Printing current date:"+date);
     Scanner a = new Scanner(System.in);
     System.out.print("enter any number: ");
     System.out.println("Hello Im coming from gomathi branch");
