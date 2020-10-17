@@ -15,10 +15,10 @@ public class palindrome
     	num=num/10;
     }
 if(originalnumber==reversednumber){
-	System.out.println("it's a palindrome");
+	System.out.println("THE GIVEN NUMBER IS A PALINDROME");
 }
 else{
-	System.out.println("it's not a palindrome");
+	System.out.println("THE GIVEN NUMBER IS NOT A PALINDROME");
 }
 }
 }
